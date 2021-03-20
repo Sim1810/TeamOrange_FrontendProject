@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react'
 import Style from './Product.module.css'
-/*import Headset from '../../images/headset.jpeg'
+import Headset from '../../images/headset.jpeg'
 import Bag from '../../images/bag.jpeg'
 import Shoe from '../../images/shoe.jpeg'
 import Table from '../../images/table.jpeg'
@@ -9,7 +9,7 @@ import Belt from '../../images/belt.jpeg'
 import TabBar from '../TabBar/TabBar'
 import {Link} from 'react-router-dom'
 import Filter from '../Filters/Filter'
-import * as Data from "../data/data" */
+import * as Data from "../data/data" 
 
 
 function Product () {
